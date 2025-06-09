@@ -7,19 +7,19 @@ This repository contains Java programs covering key concepts of object-oriented 
 ## Topic                                     ## Description 
 
 Simple Program                               Basic Java program structure and method <br>
-Taking Input                                 Demonstrates how to take user input using Scanner
-Conditional Statements                       Shows usage of if, elseif and else
-Looping                                      Covers  loops
-Switch Statement                             Demonstrates use of switch-case
-Mini Project                                 This is a fun and simple number guessing game made using Java.
-Break Statement                              Use of break to exit loops
-Operators                                    Arithmetic, logical operators 
-Type Casting                                 Type conversion (implicit and explicit casting) 
-Functions (Methods)                          Basic method creation and usage
-Function Overloading                         Method overloading examples
-Exception Handling                           Use of try, catch.
-Object-Oriented Programming                  Basic OOP principles (class, object)
-Inheritance                                  Demonstrates extends 
-Abstraction                                  Abstract classes and method implementation
-Parameterized Constructor                    Using constructors with parameters
+Taking Input                                 Demonstrates how to take user input using Scanner<br>
+Conditional Statements                       Shows usage of if, elseif and else<br>
+Looping                                      Covers  loops <br>
+Switch Statement                             Demonstrates use of switch-case<br>
+Mini Project                                 This is a fun and simple number guessing game made using Java.<br>
+Break Statement                              Use of break to exit loops<br>
+Operators                                    Arithmetic, logical operators <br>
+Type Casting                                 Type conversion (implicit and explicit casting) <br>
+Functions (Methods)                          Basic method creation and usage<br>
+Function Overloading                         Method overloading examples<br>
+Exception Handling                           Use of try, catch.<br>
+Object-Oriented Programming                  Basic OOP principles (class, object)<br>
+Inheritance                                  Demonstrates extends <br>
+Abstraction                                  Abstract classes and method implementation<br>
+Parameterized Constructor                    Using constructors with parameters<br>
                                  
