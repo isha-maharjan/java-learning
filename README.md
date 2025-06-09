@@ -6,7 +6,7 @@ This repository contains Java programs covering key concepts of object-oriented 
 
 ## Topic                                     ## Description 
 
-Simple Program                               Basic Java program structure and method 
+Simple Program                               Basic Java program structure and method <br>
 Taking Input                                 Demonstrates how to take user input using Scanner
 Conditional Statements                       Shows usage of if, elseif and else
 Looping                                      Covers  loops
